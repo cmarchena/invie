@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /** {
   width: tamaño;
   height: tamaño;
@@ -221,3 +222,48 @@ table, td, th {
   border: 1px solid #273b47;
   border-collapse: collapse;
 }
+=======
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'Allerta', sans-serif;*/
+body{
+  font-family: 'Allerta', sans-serif;
+}
+
+nav {
+  font-size: 24px;
+}
+nav a {
+  color: white;
+}
+
+article{
+  border: 1px solid blue;
+  border-radius: 5px;
+
+}
+footer{
+  background-color: blue;
+}
+.titulo{
+  font-size: 70px;
+}
+.resumen{
+  font-size: 24px;
+  font-family: 'Montserrat', sans-serif;
+}
+#guitarras{
+  color: #1F313c;
+}
+
+#guitarras h2 {
+  font-size: 35px;
+  font-family: 'Montserrat', sans-serif;
+}
+.guitarra h3{
+  font-size: 50px;
+}
+#portada{
+  background-image: url('../img/background.png');
+  color: white;
+}
+>>>>>>> 0d0ded32142c53e8d0bfcf84d52a9305419a199a
